@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background:linear-gradient(to right,red,yellow,green);
+    background:linear-gradient(to right,rgb(216, 192, 192),rgb(146, 146, 112),green);
     text-align: center;
     margin-top: 100px;
   }
