@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    background:linear-gradient(to right,red,yellow,green);
+    text-align: center;
+    margin-top: 100px;
+  }
+  
+  .container {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    width: 500px;
+    margin: 0 auto;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  #userInput {
+    width: 90%;
+    padding: 10px;
+    margin: 10px 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  #shayariDisplay {
+    font-style: italic;
+    margin: 10px 0;
+  }
+  
+  button {
+    background-color: #00ffa2;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
